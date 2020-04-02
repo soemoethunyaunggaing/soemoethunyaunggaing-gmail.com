@@ -1,0 +1,82 @@
+[
+{
+"PlaceId": "MM-sky",
+"PlaceName": "Myanmar",
+"CountryId": "MM-sky",
+"RegionId": "",
+"CityId": "-sky",
+"CountryName": "Myanmar"
+},
+{
+"PlaceId": "RGN-sky",
+"PlaceName": "Yangon",
+"CountryId": "MM-sky",
+"RegionId": "",
+"CityId": "RGNM-sky",
+"CountryName": "Myanmar"
+},
+{
+"PlaceId": "MDL-sky",
+"PlaceName": "Mandalay",
+"CountryId": "MM-sky",
+"RegionId": "",
+"CityId": "MDLM-sky",
+"CountryName": "Myanmar"
+},
+{
+"PlaceId": "NYU-sky",
+"PlaceName": "Nyaung-u",
+"CountryId": "MM-sky",
+"RegionId": "",
+"CityId": "NYUM-sky",
+"CountryName": "Myanmar"
+},
+{
+"PlaceId": "HEH-sky",
+"PlaceName": "Heho",
+"CountryId": "MM-sky",
+"RegionId": "",
+"CityId": "HEHM-sky",
+"CountryName": "Myanmar"
+},
+{
+"PlaceId": "SNW-sky",
+"PlaceName": "Thandwe",
+"CountryId": "MM-sky",
+"RegionId": "",
+"CityId": "SNWM-sky",
+"CountryName": "Myanmar"
+},
+{
+"PlaceId": "NYT-sky",
+"PlaceName": "Naypyidaw Airport",
+"CountryId": "MM-sky",
+"RegionId": "",
+"CityId": "NYTM-sky",
+"CountryName": "Myanmar"
+},
+{
+"PlaceId": "LSH-sky",
+"PlaceName": "Lashio",
+"CountryId": "MM-sky",
+"RegionId": "",
+"CityId": "LSHM-sky",
+"CountryName": "Myanmar"
+},
+{
+"PlaceId": "THL-sky",
+"PlaceName": "Tachilek",
+"CountryId": "MM-sky",
+"RegionId": "",
+"CityId": "THLM-sky",
+"CountryName": "Myanmar"
+},
+{
+"PlaceId": "AKY-sky",
+"PlaceName": "Sittwe",
+"CountryId": "MM-sky",
+"RegionId": "",
+"CityId": "AKYM-sky",
+"CountryName": "Myanmar"
+}
+]
